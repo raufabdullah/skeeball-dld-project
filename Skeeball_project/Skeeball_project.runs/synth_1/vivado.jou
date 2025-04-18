@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Apr 18 14:25:47 2025
+# Process ID: 13736
+# Current directory: C:/Users/raufa/OneDrive/Desktop/Skeeball_project/Skeeball_project.runs/synth_1
+# Command line: vivado.exe -log Top_Level_Module.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Top_Level_Module.tcl
+# Log file: C:/Users/raufa/OneDrive/Desktop/Skeeball_project/Skeeball_project.runs/synth_1/Top_Level_Module.vds
+# Journal file: C:/Users/raufa/OneDrive/Desktop/Skeeball_project/Skeeball_project.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Top_Level_Module.tcl -notrace
