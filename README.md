@@ -1,0 +1,1 @@
+This repo contains the code for our DLD project from Spring semester 2025, which is a Skee Ball Game. The game uses 1 FSM, which is the main game FSM having 4 states, startscreen, transition, gamescreen, and endscreen. The scoring has been displayed on the game screen, and the final score is displayed on end screen. 
