@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sun May 18 19:07:23 2025
+# Process ID: 15852
+# Current directory: C:/Users/Hania/Downloads/Skeeball_project_v9/Skeeball_project/Skeeball_project.runs/synth_1
+# Command line: vivado.exe -log Top_Level_Module.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Top_Level_Module.tcl
+# Log file: C:/Users/Hania/Downloads/Skeeball_project_v9/Skeeball_project/Skeeball_project.runs/synth_1/Top_Level_Module.vds
+# Journal file: C:/Users/Hania/Downloads/Skeeball_project_v9/Skeeball_project/Skeeball_project.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Top_Level_Module.tcl -notrace
